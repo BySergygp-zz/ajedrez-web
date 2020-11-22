@@ -1,4 +1,4 @@
-#!/mnt/c/Users/sergy/documents/projects/env/bin/python
+#!/mnt/c/Users/sergy/sources/desktop/ajedrez-web/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

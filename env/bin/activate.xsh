@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/mnt/c/Users/sergy/documents/projects/env"
+$VIRTUAL_ENV = r"/mnt/c/Users/sergy/sources/desktop/ajedrez-web/env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
